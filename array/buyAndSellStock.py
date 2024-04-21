@@ -15,3 +15,4 @@ class Solution:
 # Notes:
 # don't need to simulate real-life (i.e. don't overcomplicate it)
 # don't be afraid to use whatever shortcut is available to solve the problem
+# buy and sell on same day means you just need to find thr difference between tdy and yesterday's price
